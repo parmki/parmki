@@ -2,7 +2,7 @@
 
 Cloud, Systems & Infrastructure Engineer based in Madrid. Focused on cloud platforms, network architecture, Linux systems administration, and automated study tools.
 
-Founder of **[BenchCert](https://benchcert.app)** — an independent active recall exam preparation platform for Cloud, Cybersecurity, and Network engineers.
+Founder of **[BenchCert](https://benchcert.app)** — an independent active recall exam preparation platform for Cloud, Cybersecurity, and Network engineers. also known as @prsm.sh
 
 ---
 
