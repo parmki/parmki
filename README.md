@@ -34,5 +34,5 @@ Founder of **[BenchCert](https://benchcert.app)** — an independent active reca
 ---
 
 ### 🚀 Projects & Open Source
-- ⚡ **[BenchCert](https://benchcert.app)**: Developer-grade active recall training engine for AWS, Azure, CompTIA, Cisco, and GCP certifications with sub-200ms hotkeys, in-question AI hints, and zero expiring passes.
-- 📚 **[IT Certification Cheat Sheets](https://github.com/parmki/it-certification-cheat-sheets)**: Open-source blueprint summaries, protocol matrices, and exam trap teardowns for SAA-C03, Security+, CCNA, AZ-104, Network+, and GCP ACE.
+-  **[BenchCert](https://benchcert.app)**: Developer-grade active recall training engine for AWS, Azure, CompTIA, Cisco, and GCP certifications with sub-200ms hotkeys, in-question AI hints, and zero expiring passes.
+-  **[IT Certification Cheat Sheets](https://github.com/parmki/it-certification-cheat-sheets)**: Open-source blueprint summaries, protocol matrices, and exam trap teardowns for SAA-C03, Security+, CCNA, AZ-104, Network+, and GCP ACE.
