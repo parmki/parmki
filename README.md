@@ -35,4 +35,4 @@ Founder of **[BenchCert](https://benchcert.app)** — an independent active reca
 
 ### 🚀 Projects & Open Source
 -  **[BenchCert](https://benchcert.app)**: Developer-grade active recall training engine for AWS, Azure, CompTIA, Cisco, and GCP certifications with sub-200ms hotkeys, in-question AI hints, and zero expiring passes.
--  **[ACTIVATE](https://github.com/parmki/ACTIVATE)**: Personal productivity and habit tracker built with Next.js. A hands-on project for learning Docker and cloud deployment, with a live Vercel deployment at [activate-mu.vercel.app](https://activate-mu.vercel.app/).
+-  **[ACTIVATE](https://github.com/parmki/ACTIVATE)**: Personal productivity and habit tracker built with Next.js. A hands-on project for learning Docker and cloud deployment.
